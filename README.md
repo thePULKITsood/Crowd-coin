@@ -1,7 +1,7 @@
 # CrowdCoin
 
 ## Project - Presentation - PPT  - [PPT](https://docs.google.com/presentation/d/1m88IhDOmX5qjImiGeG1mOQbGYHNzLll4/editusp=sharing&ouid=103338565212085906975&rtpof=true&sd=true). 
-## Project - Report - [Report ]https://drive.google.com/file/d/1yYxgMF4KEaFvSqfvUAA009r3_B2BcoPp/view?usp=sharing)
+## Project - Report - [Report](https://drive.google.com/file/d/1yYxgMF4KEaFvSqfvUAA009r3_B2BcoPp/view?usp=sharing)
 
 ## The Problem
 To Increase Transparency and Prevent Fraudulent Activities that arise on crowd funding plateforms such as **Kickstarter**. 
